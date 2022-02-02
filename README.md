@@ -3,7 +3,7 @@
 This is the tested framework for gnerating bezier curve in unity game engine. I already generated a tutorial video from zero to 100 of generation of bezier curve. For more information about this code, just watch the video and enjoy.
 
 
-![alt text](http://url/to/temo1.png)
+![alt text](https://github.com/MohammadCGRE/Generating-Bezier-Curve_in-Unity-Game-Engine/blob/main/temo1.png)
 
 
 https://youtu.be/ap1UOJpE7Ic
